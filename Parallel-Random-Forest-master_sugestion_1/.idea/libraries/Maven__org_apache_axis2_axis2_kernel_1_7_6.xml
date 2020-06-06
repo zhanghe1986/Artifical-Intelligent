@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.axis2:axis2-kernel:1.7.6">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../maven_repository/tree/Parallel-Random-Forest-master/org/apache/axis2/axis2-kernel/1.7.6/axis2-kernel-1.7.6.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../../maven_repository/tree/Parallel-Random-Forest-master/org/apache/axis2/axis2-kernel/1.7.6/axis2-kernel-1.7.6-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../maven_repository/tree/Parallel-Random-Forest-master/org/apache/axis2/axis2-kernel/1.7.6/axis2-kernel-1.7.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
